@@ -1,0 +1,334 @@
+{
+  "competitor_id": "dr-jart",
+  "platform": "抖音",
+  "shop_name": "Dr.Jart+蒂佳婷官方旗舰店",
+  "shop_url": "https://www.douyin.com/user/MS4wLjABAAAAZG7Gs1-tePvtfc2ygQ0eNle-h0cX0TsKieaH13f-Nt9DM_iFeoIwLJSxjVUkmto9",
+  "live_url": "https://live.douyin.com/25584719529",
+  "captured_at": "2026-10-15T12:33:38+08:00",
+  "capture_status": "partial_capture",
+  "scope": "实名认证后Chrome正常读取直播列表15款价格与活动文案；列表展示顺序非销量TOP5；商品SKU和赠品条件未齐",
+  "extraction_method": "Browser Act读取当前页面可见商品卡DOM，无隐藏接口请求",
+  "products": [
+    {
+      "rank": 1,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双11囤货装】蒂佳婷324浓修彩丸面膜重组三文鱼PDRN敏感肌修护|N",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 333.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "彩丸6盒 拍1到手33件",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "彩丸6盒 拍1到手33件",
+      "raw_product_card": "1\n【双11囤货装】蒂佳婷324浓修彩丸面膜重组三文鱼PDRN敏感肌修护|N\n彩丸6盒 拍1到手33件\n运费险7天无理由退货\n大促价\n¥333\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:33:38+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/dr-jart-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 2,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双11超值装】蒂佳婷补水蓝丸1.0面膜324浓修彩丸三文鱼重组PDRN",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 303.5,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "彩丸1盒 蓝丸8盒 到手52件",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "彩丸1盒 蓝丸8盒 到手52件",
+      "raw_product_card": "2\n【双11超值装】蒂佳婷补水蓝丸1.0面膜324浓修彩丸三文鱼重组PDRN\n彩丸1盒 蓝丸8盒 到手52件\n运费险7天无理由退货\n大促价\n¥303.5\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:33:38+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/dr-jart-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 3,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双11囤货装】蒂佳婷324浓修彩丸面膜三文鱼重组PDRN敏感肌修护|N",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 333.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "彩丸6盒蓝丸1盒 到手40件",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "彩丸6盒蓝丸1盒 到手40件",
+      "raw_product_card": "3\n【双11囤货装】蒂佳婷324浓修彩丸面膜三文鱼重组PDRN敏感肌修护|N\n彩丸6盒蓝丸1盒 到手40件\n运费险7天无理由退货\n大促价\n¥333\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:33:38+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/dr-jart-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 4,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双11狂欢购】蒂佳婷蓝绿丸面膜补水焕亮面膜修护玻尿酸2.0|Y2",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 205.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "蓝丸5盒 拍1到手28件",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "蓝丸5盒 拍1到手28件",
+      "raw_product_card": "4\n【双11狂欢购】蒂佳婷蓝绿丸面膜补水焕亮面膜修护玻尿酸2.0|Y2\n蓝丸5盒 拍1到手28件\n运费险7天无理由退货\n大促价\n¥205\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:33:38+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/dr-jart-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 5,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双11囤货】蒂佳婷补水保湿面膜焕亮修护玻尿酸敏肌可用送女友|Y2",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 308.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "【双11囤货】蒂佳婷补水保湿面膜焕亮修护玻尿酸敏肌可用送女友|Y2；蓝丸8盒 拍1到手43件",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "蓝丸8盒 拍1到手43件",
+      "raw_product_card": "5\n【双11囤货】蒂佳婷补水保湿面膜焕亮修护玻尿酸敏肌可用送女友|Y2\n蓝丸8盒 拍1到手43件\n运费险7天无理由退货\n大促价\n¥308\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:33:38+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/dr-jart-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 6,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双11狂欢购】蒂佳婷银管BB霜隔离防晒保湿提亮升级清透无瑕肌|B2",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 95.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "1支顶4支 双支更划算",
+      "raw_product_card": "6\n【双11狂欢购】蒂佳婷银管BB霜隔离防晒保湿提亮升级清透无瑕肌|B2\n1支顶4支 双支更划算\n运费险7天无理由退货\n大促价\n¥95\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:33:38+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/dr-jart-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 7,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双11狂欢购】蒂佳婷324浓修彩丸面膜三文鱼重组PDRN敏感肌修护|N",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 230.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "彩丸4盒 到手23件",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "彩丸4盒 到手23件",
+      "raw_product_card": "7\n【双11狂欢购】蒂佳婷324浓修彩丸面膜三文鱼重组PDRN敏感肌修护|N\n彩丸4盒 到手23件\n运费险7天无理由退货\n大促价\n¥230\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:33:38+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/dr-jart-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 8,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【重磅新品】蒂佳婷蓝丸翻修乳敏肌水光修护乳屏障保湿控油面霜|X",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 89.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "酵正屏障 不致痘 更细腻",
+      "raw_product_card": "8\n【重磅新品】蒂佳婷蓝丸翻修乳敏肌水光修护乳屏障保湿控油面霜|X\n酵正屏障 不致痘 更细腻\n运费险7天无理由退货\n大促价\n¥89\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:33:38+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/dr-jart-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 9,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【韩女水光肌】蒂佳婷B5有色BB霜防晒粉底干皮敏肌可用|B3",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 119.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "徒手5秒水光肌",
+      "raw_product_card": "9\n【韩女水光肌】蒂佳婷B5有色BB霜防晒粉底干皮敏肌可用|B3\n徒手5秒水光肌\n运费险7天无理由退货\n大促价\n¥119\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:33:38+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/dr-jart-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 10,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双11狂欢购】蒂佳婷小橘灯素颜霜持证美白去黄去暗沉敏肌可用|V7",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 109.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "小橘灯素颜霜 持证美白越用越白",
+      "raw_product_card": "10\n【双11狂欢购】蒂佳婷小橘灯素颜霜持证美白去黄去暗沉敏肌可用|V7\n小橘灯素颜霜 持证美白越用越白\n运费险7天无理由退货\n大促价\n¥109\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:33:38+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/dr-jart-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 11,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【项目后可用】蒂佳婷水光补水保湿焕亮修护敏肌可用2.0|P",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 225.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "光电项目后可用深度补水修护",
+      "raw_product_card": "11\n【项目后可用】蒂佳婷水光补水保湿焕亮修护敏肌可用2.0|P\n光电项目后可用深度补水修护\n运费险7天无理由退货\n大促价\n¥225\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:33:38+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/dr-jart-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 12,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【胶原淡纹】蒂佳婷大白针补水焕亮精华紧致修护胶原蛋白胶原嘭弹|M",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 199.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "致淡纹次抛一次带走15支",
+      "raw_product_card": "12\n【胶原淡纹】蒂佳婷大白针补水焕亮精华紧致修护胶原蛋白胶原嘭弹|M\n致淡纹次抛一次带走15支\n运费险7天无理由退货\n大促价\n¥199\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:33:38+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/dr-jart-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 13,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【深层清洁】蒂佳婷官方面膜清爽去油净化清洁泡沫去黑头|H",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 225.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "深层清洁清爽去油|毛孔级清洁",
+      "raw_product_card": "13\n【深层清洁】蒂佳婷官方面膜清爽去油净化清洁泡沫去黑头|H\n深层清洁清爽去油|毛孔级清洁\n运费险7天无理由退货\n大促价\n¥225\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:33:38+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/dr-jart-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 14,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【嘭弹修护】蒂佳婷大白针胶原嘭弹修护面膜抗皱舒缓焕亮补水|K",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 225.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": "院线级修红，到手17件带回家",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "院线级修红，到手17件带回家",
+      "raw_product_card": "14\n【嘭弹修护】蒂佳婷大白针胶原嘭弹修护面膜抗皱舒缓焕亮补水|K\n院线级修红，到手17件带回家\n运费险7天无理由退货\n大促价\n¥225\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:33:38+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/dr-jart-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 15,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【重磅新品】蒂佳婷冰沙丸韩女肌密妆前面膜小脸持妆降温舒缓保湿|R",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 120.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "即刻降温打造V脸",
+      "raw_product_card": "15\n【重磅新品】蒂佳婷冰沙丸韩女肌密妆前面膜小脸持妆降温舒缓保湿|R\n即刻降温打造V脸\n运费险7天无理由退货\n大促价\n¥120\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:33:38+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/dr-jart-products-dom.txt"
+      ]
+    }
+  ],
+  "missing": [
+    "选中SKU及对应价格",
+    "稳定商品ID与商品链接",
+    "赠品适用规格、数量及活动限制",
+    "第二个同规格同条件快照"
+  ]
+}

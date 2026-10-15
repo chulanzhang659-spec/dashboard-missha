@@ -1,0 +1,439 @@
+{
+  "competitor_id": "carslan",
+  "platform": "抖音",
+  "shop_name": "卡姿兰官方旗舰店",
+  "shop_url": "https://www.douyin.com/user/MS4wLjABAAAA8yeBoSravH8EEvFbYC7vlNM84bOIwoaAI2cveWPas9c",
+  "live_url": "https://live.douyin.com/223200445067",
+  "captured_at": "2026-10-15T12:34:55+08:00",
+  "capture_status": "partial_capture",
+  "scope": "实名认证后Chrome正常读取直播列表20款价格与活动文案；列表展示顺序非销量TOP5；商品SKU和赠品条件未齐",
+  "extraction_method": "Browser Act读取当前页面可见商品卡DOM，无隐藏接口请求",
+  "products": [
+    {
+      "rank": 1,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双11狂欢购】卡姿兰黑磁粉底液推荐控油持妆遮瑕持久油皮防水LH",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 189.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "爆款黑磁控油2.0，拍一享六！",
+      "raw_product_card": "x2218\n讲解中\n【双11狂欢购】卡姿兰黑磁粉底液推荐控油持妆遮瑕持久油皮防水LH\n爆款黑磁控油2.0，拍一享六！\n7天无理由退货\n大促价\n¥189\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:34:55+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/carslan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 2,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【便携装7.5g】卡姿兰黑磁粉底液遮瑕持久不脱妆服帖控油防水汗",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 79.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "- 已抢光 -\n2\n【便携装7.5g】卡姿兰黑磁粉底液遮瑕持久不脱妆服帖控油防水汗\n7天无理由退货\n¥79\n去抢购",
+      "link_status": "售罄，保留历史展示价",
+      "captured_at": "2026-10-15T12:34:55+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/carslan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 3,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【18g大容量】3.0升级卡姿兰黑磁散粉定妆持久控油防水汗不易脱妆N",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 189.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "18g囤货装黑磁散粉3.0",
+      "raw_product_card": "3\n【18g大容量】3.0升级卡姿兰黑磁散粉定妆持久控油防水汗不易脱妆N\n18g囤货装黑磁散粉3.0\n7天无理由退货\n大促价\n¥189\n起\n¥199\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:34:55+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/carslan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 4,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【新升级】卡姿兰小混猫粉底液奶猫保湿持久不脱妆不卡粉干皮官方H",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 109.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "小奶猫粉底液4.0，灵动扒脸",
+      "raw_product_card": "4\n【新升级】卡姿兰小混猫粉底液奶猫保湿持久不脱妆不卡粉干皮官方H\n小奶猫粉底液4.0，灵动扒脸\n7天无理由退货\n大促价\n¥109\n¥119\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:34:55+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/carslan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 5,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【买大送小】卡姿兰雾吻口红第三代升级哑光款M584芭乐色燕麦格雷CB",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 99.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "【买大送小】卡姿兰雾吻口红第三代升级哑光款M584芭乐色燕麦格雷CB",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "满2件减20元",
+      "promotion_copy": "雾吻口红3.0，两支更划算；满2件减20元",
+      "raw_product_card": "5\n【买大送小】卡姿兰雾吻口红第三代升级哑光款M584芭乐色燕麦格雷CB\n雾吻口红3.0，两支更划算\n满2件减20元\n大促价\n¥99\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:34:55+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/carslan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 6,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "卡姿兰黑磁粉饼3.0定妆一正一替持久控油防水干皮油皮不脱妆防汗F",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 189.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "3.0黑磁粉饼，清透不压光",
+      "raw_product_card": "6\n卡姿兰黑磁粉饼3.0定妆一正一替持久控油防水干皮油皮不脱妆防汗F\n3.0黑磁粉饼，清透不压光\n7天无理由退货\n大促价\n¥189\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:34:55+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/carslan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 7,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【明星推荐】卡姿兰黑磁散粉3.0升级版定妆持久控油防水防汗官方N",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 109.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "黑磁散粉3.0，遇水汗更持妆",
+      "raw_product_card": "7\n【明星推荐】卡姿兰黑磁散粉3.0升级版定妆持久控油防水防汗官方N\n黑磁散粉3.0，遇水汗更持妆\n7天无理由退货\n大促价\n¥109\n起\n¥119\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:34:55+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/carslan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 8,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【一支顶5支】卡姿兰大眼睛睫毛膏持久新手卷翘不晕染不脱妆防水汗",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 69.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "新品上新！送睫毛夹",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "新品上新！送睫毛夹",
+      "raw_product_card": "8\n【一支顶5支】卡姿兰大眼睛睫毛膏持久新手卷翘不晕染不脱妆防水汗\n新品上新！送睫毛夹\n7天无理由退货\n大促价\n¥69\n¥99\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:34:55+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/carslan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 9,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【到手9.5g】卡姿兰黑磁粉饼3.0定妆8g持久控油干油皮不脱妆防水汗F",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 129.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": "【到手9.5g】卡姿兰黑磁粉饼3.0定妆8g持久控油干油皮不脱妆防水汗F",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "第3代磁力吸油 清透不压光~",
+      "raw_product_card": "9\n【到手9.5g】卡姿兰黑磁粉饼3.0定妆8g持久控油干油皮不脱妆防水汗F\n第3代磁力吸油 清透不压光~\n7天无理由退货\n大促价\n¥129\n起\n¥139\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:34:55+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/carslan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 10,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【爆款来袭】卡姿兰明星素颜霜替换芯版控油提亮防水防汗不脱妆H",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 98.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "明星素颜霜，水光清润",
+      "raw_product_card": "10\n【爆款来袭】卡姿兰明星素颜霜替换芯版控油提亮防水防汗不脱妆H\n明星素颜霜，水光清润\n7天无理由退货\n¥98\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:34:55+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/carslan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 11,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "卡姿兰云绒多用霜服帖持色自然提亮腮红眼影口红一体盘气色哑光H",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 69.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "11\n卡姿兰云绒多用霜服帖持色自然提亮腮红眼影口红一体盘气色哑光H\n7天无理由退货\n大促价\n¥69\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:34:55+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/carslan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 12,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【限时特惠】卡姿兰黑磁粉底液遮瑕持久不脱妆不卡粉控油防水轻薄G",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 179.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "磨皮无粉感 24H持妆持色~",
+      "raw_product_card": "12\n【限时特惠】卡姿兰黑磁粉底液遮瑕持久不脱妆不卡粉控油防水轻薄G\n磨皮无粉感 24H持妆持色~\n7天无理由退货\n大促价\n¥179\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:34:55+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/carslan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 13,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "卡姿兰豹纹豹红限定小混猫气垫遮瑕持久不脱妆控油持妆干皮油皮H",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 149.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "小奶猫气垫，一拍遮瑕",
+      "raw_product_card": "13\n卡姿兰豹纹豹红限定小混猫气垫遮瑕持久不脱妆控油持妆干皮油皮H\n小奶猫气垫，一拍遮瑕\n7天无理由退货\n大促价\n¥149\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:34:55+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/carslan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 14,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【新品上新】卡姿兰三色遮瑕膏修容防水汗高光不脱妆遮瑕校色提亮ZX",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 69.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "券满99减30",
+      "promotion_copy": "速遮黑眼圈、泪沟、法令纹；券满99减30",
+      "raw_product_card": "14\n【新品上新】卡姿兰三色遮瑕膏修容防水汗高光不脱妆遮瑕校色提亮ZX\n速遮黑眼圈、泪沟、法令纹\n券满99减30\n大促价\n¥69\n¥99\n领券抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:34:55+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/carslan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 15,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【限定返场】卡姿兰黑磁粉底液遮瑕持久不脱妆不卡粉持妆防水汗G",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 159.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "限定包装",
+      "raw_product_card": "15\n【限定返场】卡姿兰黑磁粉底液遮瑕持久不脱妆不卡粉持妆防水汗G\n限定包装\n7天无理由退货\n大促价\n¥159\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:34:55+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/carslan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 16,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【限时特惠】卡姿兰玻璃丰唇蜜唇釉保湿清透水光滋润淡唇纹不沾杯CY",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 89.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "新品玻璃丰唇蜜，润色又锁色",
+      "raw_product_card": "16\n【限时特惠】卡姿兰玻璃丰唇蜜唇釉保湿清透水光滋润淡唇纹不沾杯CY\n新品玻璃丰唇蜜，润色又锁色\n7天无理由退货\n大促价\n¥89\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:34:55+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/carslan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 17,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【双11限时加补】卡姿兰波波晶透固体唇膏笔清透不易沾杯成膜保湿GT",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 118.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "固体唇膏上新，一抹入夏",
+      "raw_product_card": "17\n【双11限时加补】卡姿兰波波晶透固体唇膏笔清透不易沾杯成膜保湿GT\n固体唇膏上新，一抹入夏\n7天无理由退货\n大促价\n¥118\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:34:55+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/carslan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 18,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "卡姿兰唇部精华蜜精华霜口红裸色水光淡化唇纹清透持色滋润礼物H",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 78.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "买3支更划算 立减57赠包包",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "买3支更划算 立减57赠包包；满2件减28元",
+      "promotion_copy": "买3支更划算 立减57赠包包；满2件减28元",
+      "raw_product_card": "18\n卡姿兰唇部精华蜜精华霜口红裸色水光淡化唇纹清透持色滋润礼物H\n买3支更划算 立减57赠包包\n满2件减28元\n大促价\n¥78\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:34:55+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/carslan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 19,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "卡姿兰棕意限定黑磁粉底液粉饼雾吻口红唇膏笔套组定妆遮瑕持妆H",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 447.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "棕意限定黑磁底定唇四件套！",
+      "raw_product_card": "19\n卡姿兰棕意限定黑磁粉底液粉饼雾吻口红唇膏笔套组定妆遮瑕持妆H\n棕意限定黑磁底定唇四件套！\n7天无理由退货\n大促价\n¥447\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:34:55+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/carslan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 20,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【爆款底妆】卡姿兰云朵气垫底妆遮瑕持久不脱妆干皮油皮水润轻薄H",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 139.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "全新云朵气垫，暴汗不脱妆！",
+      "raw_product_card": "20\n【爆款底妆】卡姿兰云朵气垫底妆遮瑕持久不脱妆干皮油皮水润轻薄H\n全新云朵气垫，暴汗不脱妆！\n7天无理由退货\n¥139\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:34:55+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/carslan-products-dom.txt"
+      ]
+    }
+  ],
+  "missing": [
+    "选中SKU及对应价格",
+    "稳定商品ID与商品链接",
+    "赠品适用规格、数量及活动限制",
+    "第二个同规格同条件快照"
+  ]
+}

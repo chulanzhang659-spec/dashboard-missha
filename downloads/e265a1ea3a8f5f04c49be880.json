@@ -1,0 +1,124 @@
+{
+  "competitor_id": "carslan",
+  "platform": "天猫",
+  "shop_name": "卡姿兰官方旗舰店",
+  "captured_at": "2026-10-14T11:07:29.954Z",
+  "capture_status": "partial_capture",
+  "scope": "销量TOP5详情、完整规格价、赠品海报已采集",
+  "products": [
+    {
+      "rank": 1,
+      "title": "【双11提前购】4.0卡姿兰粉底液遮瑕持久不脱妆小混猫奶夜猫粉底",
+      "product_id": "608068592627",
+      "product_url": "https://detail.tmall.com/item.htm?id=608068592627",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=608068592627&mi_id=0000r3qo7zibT1SbxsH_JXkhtXF4f7QLsHNAOc3Y-ZgJVCc&rn=0472194ca392716e2ceac0c128e03135&skuId=6139298214519",
+      "sku": "【猫粉底液4.0】柔润又扒脸 双11赠黑磁散粉 / 【4.0新升级】混合皮-W01暖调偏白(混猫)\n店长主推 / 30g",
+      "selected_sku_display_price": 102.1,
+      "price_label": "已选完整规格的当前账号展示价",
+      "gift_copy": "会员买4.0粉底赠底妆粉扑1、黑磁3.0嘭嘭紫1g、卸妆湿巾3、同版全色试用装1。",
+      "gift_reason": null,
+      "coupon_conditions": "价格包含页面当前账号优惠，非普适结算承诺；第1款含6元限时红包。海报另列会员350减60；部分产品会员0.01购礼需先购礼并实付满158，未参与验证。",
+      "link_status": "active",
+      "evidence": [
+        "carslan-tmall-r1-confirmed.json",
+        "carslan-tmall-r1-confirmed.png",
+        "carslan-r1-poster-0.webp"
+      ],
+      "public_evidence": [
+        "carslan-r1-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "【双11提前购】3.0卡姿兰黑磁散粉定妆粉控油持久不脱定妆散粉饼",
+      "product_id": "651588553248",
+      "product_url": "https://detail.tmall.com/item.htm?id=651588553248",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=651588553248&mi_id=0000gVSjnJ2iHG65PqpvXVB-pzNRka8rgMcHt1Wk06vDXv8&rn=0472194ca392716e2ceac0c128e03135&skuId=5066866028201",
+      "sku": "【黑磁散粉3.0】买大送小 详情领大额补贴 / 【8g】3.0嘭嘭紫-修黄提亮(干皮/混合皮) / 1盒",
+      "selected_sku_display_price": 118.1,
+      "price_label": "已选完整规格的当前账号展示价",
+      "gift_copy": "会员买赠1g紫色散粉、湿巾1；直播间3.0散粉8g另送粉刷1。",
+      "gift_reason": null,
+      "coupon_conditions": "价格包含页面当前账号优惠，非普适结算承诺；第1款含6元限时红包。海报另列会员350减60；部分产品会员0.01购礼需先购礼并实付满158，未参与验证。",
+      "link_status": "active",
+      "evidence": [
+        "carslan-tmall-r2-confirmed.json",
+        "carslan-tmall-r2-confirmed.png",
+        "carslan-r2-poster-0.webp"
+      ],
+      "public_evidence": [
+        "carslan-r2-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "【双11提前购】3.0卡姿兰口红雾吻口红唇釉豆沙唇膏芭乐裸色秋冬",
+      "product_id": "610491349125",
+      "product_url": "https://detail.tmall.com/item.htm?id=610491349125",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=610491349125&mi_id=0000ylcKYdnVox3QshYZ-sKdHgemfpF5JtW22nmdm-gALRY&rn=0472194ca392716e2ceac0c128e03135&skuId=6296390742577",
+      "sku": "3.0雾吻口红｜至高买2享8 赠正装眼影 / 【M584暮色礁石】 清甜芭乐色\n上新",
+      "selected_sku_display_price": 98.1,
+      "price_label": "已选完整规格的当前账号展示价",
+      "gift_copy": "会员买1赠星辰碎钻单色眼影1.2g；直播买2另赠M594口红1g、湿巾3、眼影1.2g，买1与买2不叠加。",
+      "gift_reason": null,
+      "coupon_conditions": "价格包含页面当前账号优惠，非普适结算承诺；第1款含6元限时红包。海报另列会员350减60；部分产品会员0.01购礼需先购礼并实付满158，未参与验证。",
+      "link_status": "active",
+      "evidence": [
+        "carslan-tmall-r3-confirmed.json",
+        "carslan-tmall-r3-confirmed.png",
+        "carslan-r3-poster-0.webp"
+      ],
+      "public_evidence": [
+        "carslan-r3-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "卡姿兰恒丽粉饼控油定妆持久遮瑕防水定补妆非散粉粉底液官方正品",
+      "product_id": "13005219179",
+      "product_url": "https://detail.tmall.com/item.htm?id=13005219179",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=13005219179&mi_id=0000JnpNMm3sEiZoRITFEvmtzgSXCvuSR5WUp9Xo8sCxlhI&rn=0472194ca392716e2ceac0c128e03135&skuId=6099456711957",
+      "sku": "【恒丽粉饼】12H持妆隐瑕 控油不拔干 / 01玉瓷色（升级版）\n万人加购 / 9g",
+      "selected_sku_display_price": 59,
+      "price_label": "已选完整规格的当前账号展示价",
+      "gift_copy": null,
+      "gift_reason": "未见明确赠品条款",
+      "coupon_conditions": "价格包含页面当前账号优惠，非普适结算承诺；第1款含6元限时红包。海报另列会员350减60；部分产品会员0.01购礼需先购礼并实付满158，未参与验证。",
+      "link_status": "active",
+      "evidence": [
+        "carslan-tmall-r4-confirmed.json",
+        "carslan-tmall-r4-confirmed.png",
+        "carslan-r4-poster-0.webp"
+      ],
+      "public_evidence": [
+        "carslan-r4-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "【双11提前购】卡姿兰明星素颜霜脸部自然提亮肤色裸妆懒人面霜女",
+      "product_id": "539413113746",
+      "product_url": "https://detail.tmall.com/item.htm?id=539413113746",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=539413113746&mi_id=0000WV881Vx1fX2oBxd1WwYdWRhWiIUDQpo1ZzfyQ2rJrKs&rn=0472194ca392716e2ceac0c128e03135&skuId=5974333811251",
+      "sku": "【明星素颜霜】买1享65g 买1正1替享150g / 50g 【水润版】融肤不卡纹\n推荐",
+      "selected_sku_display_price": 97.1,
+      "price_label": "已选完整规格的当前账号展示价",
+      "gift_copy": "会员直播买单瓶赠明星素颜霜10g+5g；一正一替赠10g×5不适用当前单瓶。",
+      "gift_reason": null,
+      "coupon_conditions": "价格包含页面当前账号优惠，非普适结算承诺；第1款含6元限时红包。海报另列会员350减60；部分产品会员0.01购礼需先购礼并实付满158，未参与验证。",
+      "link_status": "active",
+      "evidence": [
+        "carslan-tmall-r5-confirmed.json",
+        "carslan-tmall-r5-confirmed.png",
+        "carslan-r5-poster-0.webp"
+      ],
+      "public_evidence": [
+        "carslan-r5-poster-0.webp"
+      ]
+    }
+  ],
+  "missing": [
+    "会员/直播资格和赠品余量未操作验证；粉饼独立赠品未见明确条款",
+    "第二个同SKU同优惠条件时点未采集，不计算变化"
+  ]
+}

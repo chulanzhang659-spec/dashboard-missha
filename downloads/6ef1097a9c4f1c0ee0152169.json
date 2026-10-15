@@ -1,0 +1,208 @@
+{
+  "competitor_id": "chando",
+  "platform": "抖音",
+  "shop_name": "自然堂官方旗舰店",
+  "shop_url": "https://www.douyin.com/user/MS4wLjABAAAA_ZDImZQqurYDJZrbgaXnr7eoMMUVU2PUEPuf2CjYpTk",
+  "live_url": "https://live.douyin.com/40150218399",
+  "captured_at": "2026-10-15T12:37:19+08:00",
+  "capture_status": "partial_capture",
+  "scope": "实名认证后Chrome正常读取直播列表9款价格与活动文案；列表展示顺序非销量TOP5；商品SKU和赠品条件未齐",
+  "extraction_method": "Browser Act读取当前页面可见商品卡DOM，无隐藏接口请求",
+  "products": [
+    {
+      "rank": 1,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【旗舰店专享】自然堂凝时抗皱紧致礼盒面部护肤品送妈妈送老婆礼物",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 540.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "【旗舰店专享】自然堂凝时抗皱紧致礼盒面部护肤品送妈妈送老婆礼物；买正送正，1套抗皱紧致",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "买正送正，1套抗皱紧致",
+      "raw_product_card": "x3949\n讲解中\n【旗舰店专享】自然堂凝时抗皱紧致礼盒面部护肤品送妈妈送老婆礼物\n买正送正，1套抗皱紧致\n运费险7天无理由退货\n大促价\n¥540\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:37:19+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/chando-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 2,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【旗舰店专享】自然堂凝时肌活修护眼霜15g眼精华抗皱紧致细纹",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 188.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "龚俊推荐！ 正装凝时抗皱眼霜！",
+      "raw_product_card": "2\n【旗舰店专享】自然堂凝时肌活修护眼霜15g眼精华抗皱紧致细纹\n龚俊推荐！ 正装凝时抗皱眼霜！\n运费险7天无理由退货\n大促价\n¥188\n¥240\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:37:19+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/chando-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 3,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【旗舰店专享】自然堂凝时鲜颜肌活精华液40ml滋润保湿抗皱紧致",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 188.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "龚俊推荐！正装凝时抗皱精华！",
+      "raw_product_card": "3\n【旗舰店专享】自然堂凝时鲜颜肌活精华液40ml滋润保湿抗皱紧致\n龚俊推荐！正装凝时抗皱精华！\n运费险7天无理由退货\n大促价\n¥188\n¥240\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:37:19+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/chando-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 4,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【旗舰店专享】自然堂凝时鲜颜冰肌水烟酰胺精华水保湿补水抗皱NKOC",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 139.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "龚俊推荐！正装凝时抗皱冰肌水！",
+      "raw_product_card": "4\n【旗舰店专享】自然堂凝时鲜颜冰肌水烟酰胺精华水保湿补水抗皱NKOC\n龚俊推荐！正装凝时抗皱冰肌水！\n运费险7天无理由退货\n大促价\n¥139\n起\n¥180\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:37:19+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/chando-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 5,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【抢!买1支送1支】自然堂凝时鲜颜温和洁面乳卸妆氨基酸清洁洗面奶S",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 79.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": "【抢!买1支送1支】自然堂凝时鲜颜温和洁面乳卸妆氨基酸清洁洗面奶S",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "龚俊推荐！正装凝时抗皱洁面！",
+      "raw_product_card": "5\n【抢!买1支送1支】自然堂凝时鲜颜温和洁面乳卸妆氨基酸清洁洗面奶S\n龚俊推荐！正装凝时抗皱洁面！\n运费险7天无理由退货\n大促价\n¥79\n起\n¥110\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:37:19+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/chando-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 6,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【旗舰店专享】自然堂凝时鲜颜肌活霜保湿抗皱紧致酵母肌肽面霜NKOC",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 158.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "龚俊推荐！正装凝时抗皱面霜！",
+      "raw_product_card": "6\n【旗舰店专享】自然堂凝时鲜颜肌活霜保湿抗皱紧致酵母肌肽面霜NKOC\n龚俊推荐！正装凝时抗皱面霜！\n运费险7天无理由退货\n大促价\n¥158\n起\n¥220\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:37:19+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/chando-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 7,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【限定礼盒】自然堂凝时抗皱紧致礼盒面部护肤品送妈妈送老婆保湿",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 799.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": "【限定礼盒】自然堂凝时抗皱紧致礼盒面部护肤品送妈妈送老婆保湿",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "- 已抢光 -\n7\n【限定礼盒】自然堂凝时抗皱紧致礼盒面部护肤品送妈妈送老婆保湿\n运费险7天无理由退货\n¥799\n去抢购",
+      "link_status": "售罄，保留历史展示价",
+      "captured_at": "2026-10-15T12:37:19+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/chando-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 8,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【官方正品】自然堂577美白身体乳持证美白滋润保湿持久留香秋冬SC",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 69.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "8\n【官方正品】自然堂577美白身体乳持证美白滋润保湿持久留香秋冬SC\n运费险7天无理由退货\n¥69\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:37:19+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/chando-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 9,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【旗舰店专享】自然堂凝时鲜颜肌活精华乳液保湿滋润补水抗皱紧致SC",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 158.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "龚俊推荐！ 正装凝时抗皱乳液！",
+      "raw_product_card": "9\n【旗舰店专享】自然堂凝时鲜颜肌活精华乳液保湿滋润补水抗皱紧致SC\n龚俊推荐！ 正装凝时抗皱乳液！\n运费险7天无理由退货\n大促价\n¥158\n¥220\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:37:19+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/chando-products-dom.txt"
+      ]
+    }
+  ],
+  "missing": [
+    "选中SKU及对应价格",
+    "稳定商品ID与商品链接",
+    "赠品适用规格、数量及活动限制",
+    "第二个同规格同条件快照"
+  ]
+}

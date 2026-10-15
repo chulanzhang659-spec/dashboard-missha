@@ -1,0 +1,124 @@
+{
+  "competitor_id": "dr-jart",
+  "platform": "天猫",
+  "shop_name": "DrJart蒂佳婷官方旗舰店",
+  "captured_at": "2026-10-14T10:53:04.261Z",
+  "capture_status": "partial_capture",
+  "scope": "销量TOP5、所选规格价与现售/预售活动条件已采集",
+  "products": [
+    {
+      "rank": 1,
+      "title": "【加购10月15号李佳琦美妆节】蒂佳婷324浓修彩丸/经典蓝绿丸面膜",
+      "product_id": "974081578928",
+      "product_url": "https://detail.tmall.com/item.htm?id=974081578928",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=974081578928&mi_id=000044IUNDzN9GmWiU623CBhKBaoXelEb7YRQ17SB5yQoqw&ns=1&skuId=6306968771509&xxc=taobaoSearch",
+      "sku": "【彩丸面膜*6盒】 / 5片/盒",
+      "selected_sku_display_price": 415,
+      "price_label": "当前页面预售预告标价；10月15日20:00开售，非当日可成交价",
+      "alternative_price": 269,
+      "alternative_price_condition": "李佳琦10月15日预售彩丸30片海报：83元券+立减63元，定金50元；尚未生效且未结算验证",
+      "gift_copy": "彩丸6盒共30片为套餐内含；海报明确此链接不参与店铺满赠礼。其他独立赠品未见明确说明。",
+      "coupon_conditions": "10月15日活动与20日晚8点满200减25均属未来条件，不合并计算今日价格。",
+      "link_status": "active",
+      "evidence": [
+        "dr-jart-tmall-r1-dom.json",
+        "dr-jart-tmall-r1-selected.png",
+        "dr-jart-r1-poster-1.webp"
+      ],
+      "public_evidence": [
+        "dr-jart-r1-poster-1.webp"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "【双11抢先购】 蓝丸2.0升级蒂佳婷水光弹蓝丸面膜补水保湿敏肌",
+      "product_id": "534305594544",
+      "product_url": "https://detail.tmall.com/item.htm?id=534305594544",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=534305594544&mi_id=0000ka1R68bKhmPX1lXuYgrl3tFBfKZ0mgvQgrl4x4xS6Aw&ns=1&skuId=6145244561658&xxc=taobaoSearch",
+      "sku": "【长效水光&院线级舒敏】经典蓝绿丸2.0 / 25片 / I 经典蓝丸2.0\n千人加购",
+      "selected_sku_display_price": 200,
+      "price_label": "当前账号所选规格页面价，未下单",
+      "gift_copy": "25片为商品内含；海报0.01锁定会员礼需单笔满220，当前200不够。满299赠洁面30ml、满380赠黑丸面膜1盒（两档不叠加）、满480赠积雪草去红瓶30ml，不能当作本规格自动赠送。",
+      "gift_reason": null,
+      "coupon_conditions": "包含5元账号红包及立减，BB另含满135减19券；V7另含满145减14券。",
+      "link_status": "active",
+      "evidence": [
+        "dr-jart-tmall-r2-dom.json",
+        "dr-jart-tmall-r2-selected.png",
+        "dr-jart-r2-poster-1.webp",
+        "dr-jart-r2-poster-2.webp"
+      ],
+      "public_evidence": [
+        "dr-jart-r2-poster-1.webp",
+        "dr-jart-r2-poster-2.webp"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "【双11抢先购】蒂佳婷银管BB霜2.0 防晒美白双特征遮瑕养肤敏肌",
+      "product_id": "559306561656",
+      "product_url": "https://detail.tmall.com/item.htm?id=559306561656",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=559306561656&mi_id=0000BKhWmIidC4rqRtmCQdTL2NaBYnAWMmCu0Tdn3EEIp9M&ns=1&skuId=6307364742339&xxc=taobaoSearch",
+      "sku": "【油皮/混油皮必选】银管BB 2.0 有色面霜 / 银管BB*1支\n千人加购",
+      "selected_sku_display_price": 90,
+      "price_label": "当前账号所选规格页面价，未下单",
+      "gift_copy": "海报0.01会员礼须先购买店铺一分钱链接并确认收货，D11活动期单笔满220，每ID一次；当前单支未达门槛。海报85元为双支装至高8折价，非当前单支90。",
+      "gift_reason": null,
+      "coupon_conditions": "包含5元账号红包及立减，BB另含满135减19券；V7另含满145减14券。",
+      "link_status": "active",
+      "evidence": [
+        "dr-jart-tmall-r3-dom.json",
+        "dr-jart-tmall-r3-selected.png",
+        "dr-jart-r3-skuimg.webp"
+      ],
+      "public_evidence": [
+        "dr-jart-r3-skuimg.webp"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "【双11抢先购】蒂佳婷小橘灯素颜霜持证美白去黄去暗沉韩系伪素颜",
+      "product_id": "532060361109",
+      "product_url": "https://detail.tmall.com/item.htm?id=532060361109",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=532060361109&mi_id=0000DSohStNnf5hBD5lggo6ttKcSvyWPq7uC08hCgu8rcB0&ns=1&skuId=6143365337858&xxc=taobaoSearch",
+      "sku": "V7*1支\n近期热销",
+      "selected_sku_display_price": 104,
+      "price_label": "当前账号所选规格页面价，未下单",
+      "gift_copy": "海报0.01会员礼须先购买店铺一分钱链接并确认收货，D11活动期单笔满220，每ID一次；当前单支未达门槛。海报99元为双瓶装至高8折价，非当前单瓶104。",
+      "gift_reason": null,
+      "coupon_conditions": "包含5元账号红包及立减，BB另含满135减19券；V7另含满145减14券。",
+      "link_status": "active",
+      "evidence": [
+        "dr-jart-tmall-r4-dom.json",
+        "dr-jart-tmall-r4-selected.png",
+        "dr-jart-r4-skuimg.webp"
+      ],
+      "public_evidence": [
+        "dr-jart-r4-skuimg.webp"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "【淘宝秒杀】蒂佳婷大白针KX胶肽面膜2片 体验装 入仓",
+      "product_id": "996039705632",
+      "product_url": "https://detail.tmall.com/item.htm?id=996039705632",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=996039705632&mi_id=0000-QK2aiRACn1huwk7YMgOmiFHLQudjMnxaBG7TXPG51Q&ns=1&skuId=5977580264283&xxc=taobaoSearch",
+      "sku": "2片\n千人加购",
+      "selected_sku_display_price": 14.9,
+      "price_label": "当前账号所选规格页面价，未下单",
+      "gift_copy": null,
+      "gift_reason": "本次详情未见明确独立赠品，保留未知",
+      "coupon_conditions": "秒杀体验装限购1；未来满200减25不计入当前价格",
+      "link_status": "active",
+      "evidence": [
+        "dr-jart-tmall-r5-dom.json",
+        "dr-jart-tmall-r5-selected.png"
+      ],
+      "public_evidence": []
+    }
+  ],
+  "missing": [
+    "试用装独立赠品未显示",
+    "第二个同SKU同优惠条件时点未采集，不计算变化"
+  ]
+}

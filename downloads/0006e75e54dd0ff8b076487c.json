@@ -1,0 +1,126 @@
+{
+  "competitor_id": "chando",
+  "platform": "天猫",
+  "shop_name": "自然堂官方旗舰店",
+  "captured_at": "2026-10-14T11:21:31.097Z",
+  "capture_status": "partial_capture",
+  "scope": "销量TOP5完整规格价、商品详情与赠品海报已采集",
+  "products": [
+    {
+      "rank": 1,
+      "title": "[双11抢先购]自然堂喜马拉雅植物补水面膜21片补水保湿官方旗舰店",
+      "product_id": "539339147058",
+      "product_url": "https://detail.tmall.com/item.htm?id=539339147058",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=539339147058&mi_id=0000t9K6ipUjE70ZycWnk89A2YMt5z3w4XVeMxDoYhGrweM&rn=96ec4da3408715771465cca7f47b720b&skuId=6309652775065",
+      "sku": "21.00片 【爆款尝鲜】\n千人加购",
+      "selected_sku_display_price": 52.38,
+      "price_label": "已选完整规格的当前账号展示价",
+      "gift_copy": null,
+      "gift_reason": "页面提示送赠品，但独立赠品明细未核实；21片组合内含不直接算额外赠品",
+      "coupon_conditions": "展示价含当前账号/平台优惠；会员积分券、购物金充值和0.01购礼未参与；海报活动价与当前SKU价格分别记录。",
+      "link_status": "active",
+      "evidence": [
+        "chando-tmall-r1-confirmed.json",
+        "chando-tmall-r1-confirmed.png",
+        "chando-r1-poster-0.webp"
+      ],
+      "public_evidence": [
+        "chando-r1-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "[双11抢先购]自然堂烟酰胺安瓶美白面膜淡斑提亮修护补水保湿",
+      "product_id": "602547669818",
+      "product_url": "https://detail.tmall.com/item.htm?id=602547669818",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=602547669818&mi_id=00008bUx_Z8U1Apa6tuuIsmI0FRzQOrBaXUlT9U-BSgp2mo&rn=96ec4da3408715771465cca7f47b720b&skuId=6122197588648",
+      "sku": "30片 双11必囤⭐温和美白提亮\n万人加购",
+      "selected_sku_display_price": 140.65,
+      "price_label": "已选完整规格的当前账号展示价",
+      "gift_copy": "会员0.01锁权后，正装单笔实付满199送油敷面膜2片；满299送油敷2片+PDRN面膜2片+极地圣水30ml。当前所选一件展示价未达门槛。",
+      "gift_reason": null,
+      "coupon_conditions": "展示价含当前账号/平台优惠；会员积分券、购物金充值和0.01购礼未参与；海报活动价与当前SKU价格分别记录。",
+      "link_status": "active",
+      "evidence": [
+        "chando-tmall-r2-confirmed.json",
+        "chando-tmall-r2-confirmed.png",
+        "chando-r2-poster-0.webp",
+        "chando-r2-poster-1.webp"
+      ],
+      "public_evidence": [
+        "chando-r2-poster-0.webp",
+        "chando-r2-poster-1.webp"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "【双11抢先购】自然堂凝时抗皱紧致保湿水乳套盒护肤套装敏肌可用",
+      "product_id": "41198080050",
+      "product_url": "https://detail.tmall.com/item.htm?id=41198080050",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=41198080050&mi_id=0000AkE-o9sTeUtkcUFpx3uLeV5yOuFtKBV-W1LWDBdQ6lo&rn=96ec4da3408715771465cca7f47b720b&skuId=6130150384787",
+      "sku": "2件套：水乳-送洁水霜【热卖推荐】\n万人加购",
+      "selected_sku_display_price": 195.2,
+      "price_label": "已选完整规格的当前账号展示价",
+      "gift_copy": "当前SKU标送洁水霜；海报礼盒含水160ml+乳120ml+洁面60g×2+冰肌水60ml×2+小紫瓶霜18.5g。另会员实付满369加赠胶原眼霜膜5片+冰川喷雾300ml，当前价未达门槛。",
+      "gift_reason": null,
+      "coupon_conditions": "展示价含当前账号/平台优惠；会员积分券、购物金充值和0.01购礼未参与；海报活动价与当前SKU价格分别记录。",
+      "link_status": "active",
+      "evidence": [
+        "chando-tmall-r3-confirmed.json",
+        "chando-tmall-r3-confirmed.png",
+        "chando-r3-poster-0.webp"
+      ],
+      "public_evidence": [
+        "chando-r3-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "[直播间现货]自然堂雪润防晒美白隔离霜妆前乳遮瑕素颜霜3合1紫色",
+      "product_id": "531338636494",
+      "product_url": "https://detail.tmall.com/item.htm?id=531338636494",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=531338636494&mi_id=0000ubHbSXia2ttJ7CT_fPyhjIELSSU187K3O9e50UWeAJ8&rn=96ec4da3408715771465cca7f47b720b&skuId=6119003200027",
+      "sku": "[紫]去黄提亮A-赠同款5ml+免费试用\n万人加购",
+      "selected_sku_display_price": 79,
+      "price_label": "已选完整规格的当前账号展示价",
+      "gift_copy": "当前紫色A版赠同款5ml+同款试用1ml；新入会24小时下单新客礼等渗面膜2片。新客首单实付满99小紫瓶精华10ml；0.01锁礼实付满199油敷膜2片，各限1，当前单件未达额外门槛。",
+      "gift_reason": null,
+      "coupon_conditions": "展示价含当前账号/平台优惠；会员积分券、购物金充值和0.01购礼未参与；海报活动价与当前SKU价格分别记录。",
+      "link_status": "active",
+      "evidence": [
+        "chando-tmall-r4-confirmed.json",
+        "chando-tmall-r4-confirmed.png",
+        "chando-r4-poster-0.webp"
+      ],
+      "public_evidence": [
+        "chando-r4-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "【双11抢先购】自然堂雪域洁面水乳套装补水保湿爽肤水官方旗舰店",
+      "product_id": "21301819561",
+      "product_url": "https://detail.tmall.com/item.htm?id=21301819561",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=21301819561&mi_id=0000Viof1_tWGB_Mg9Jx0LV_Z2gBpkdHAlVUfwDITbtFYY4&rn=96ec4da3408715771465cca7f47b720b&skuId=6145065726629",
+      "sku": "【水乳套装】滋润水160ml+乳液120ml 【热卖推荐】\n万人加购",
+      "selected_sku_display_price": 141,
+      "price_label": "已选完整规格的当前账号展示价",
+      "gift_copy": "赠冰肌水60ml×2；0.01锁定礼实付满199另赠油敷面膜2片，限量10万份/每ID1件，当前单件未达门槛。",
+      "gift_reason": null,
+      "coupon_conditions": "展示价含当前账号/平台优惠；会员积分券、购物金充值和0.01购礼未参与；海报活动价与当前SKU价格分别记录。",
+      "link_status": "active",
+      "evidence": [
+        "chando-tmall-r5-confirmed.json",
+        "chando-tmall-r5-confirmed.png",
+        "chando-r5-poster-0.webp"
+      ],
+      "public_evidence": [
+        "chando-r5-poster-0.webp"
+      ]
+    }
+  ],
+  "missing": [
+    "首款独立赠品明细待确认；会员、新客及锁礼余量未参与验证",
+    "第二个同SKU同优惠条件时点未采集，不计算变化"
+  ]
+}
